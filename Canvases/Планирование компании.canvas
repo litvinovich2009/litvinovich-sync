@@ -1,0 +1,413 @@
+{
+  "edges": [
+    {
+      "fromFloating": false,
+      "fromNode": "d0ed8a9758f5cf27",
+      "fromSide": "right",
+      "id": "ccefde431b035af7",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "toFloating": false,
+      "toNode": "fd719e3f16cd2ab5",
+      "toSide": "left"
+    },
+    {
+      "fromFloating": false,
+      "fromNode": "feba56b5e787680e",
+      "fromSide": "bottom",
+      "id": "df36d307e88a9fc4",
+      "styleAttributes": {
+        "arrow": null,
+        "pathfindingMethod": "square"
+      },
+      "toFloating": false,
+      "toNode": "a5be15b9c4c3a0e1",
+      "toSide": "top"
+    },
+    {
+      "fromFloating": false,
+      "fromNode": "a5be15b9c4c3a0e1",
+      "fromSide": "bottom",
+      "id": "31ce090742d2a909",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "toFloating": false,
+      "toNode": "e5d11fee76457ce0",
+      "toSide": "top"
+    },
+    {
+      "fromFloating": false,
+      "fromNode": "f77c8db0b629c591",
+      "fromSide": "bottom",
+      "id": "b3fb54a82827748a",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "toFloating": false,
+      "toNode": "67a6dc04301a9a00",
+      "toSide": "top"
+    },
+    {
+      "fromFloating": false,
+      "fromNode": "29a38d90c0dbb0bb",
+      "fromSide": "right",
+      "id": "b81a96ee40098d38",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "toEnd": "none",
+      "toFloating": false,
+      "toNode": "6b10665fdca20d5a",
+      "toSide": "left"
+    },
+    {
+      "fromFloating": false,
+      "fromNode": "6cfe196594c875e4",
+      "fromSide": "right",
+      "id": "382ccd8417ca4abd",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "toEnd": "none",
+      "toFloating": false,
+      "toNode": "6228b26653d4d049",
+      "toSide": "left"
+    },
+    {
+      "fromFloating": false,
+      "fromNode": "bbcd31e1726fa475",
+      "fromSide": "right",
+      "id": "dd596d35a16cf42b",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "toEnd": "none",
+      "toFloating": false,
+      "toNode": "79d06e92db160034",
+      "toSide": "left"
+    },
+    {
+      "fromFloating": false,
+      "fromNode": "5e412af047ff71e5",
+      "fromSide": "bottom",
+      "id": "4e30086905afbc3a",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "toFloating": false,
+      "toNode": "415bb9902bd83eee",
+      "toSide": "top"
+    },
+    {
+      "fromFloating": false,
+      "fromNode": "884db38aed8b7c95",
+      "fromSide": "bottom",
+      "id": "cd335807eb980d24",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "toFloating": false,
+      "toNode": "40606390a0982785",
+      "toSide": "top"
+    },
+    {
+      "fromFloating": false,
+      "fromNode": "8bc0b634ad8fb657",
+      "fromSide": "right",
+      "id": "2630e4741a447093",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "toEnd": "none",
+      "toFloating": false,
+      "toNode": "1ad168d9c06933f5",
+      "toSide": "left"
+    },
+    {
+      "fromFloating": false,
+      "fromNode": "29a38d90c0dbb0bb",
+      "fromSide": "bottom",
+      "id": "388cfefccf7c69af",
+      "styleAttributes": {
+        "arrow": null,
+        "pathfindingMethod": "square"
+      },
+      "toFloating": false,
+      "toNode": "6cfe196594c875e4",
+      "toSide": "top"
+    },
+    {
+      "fromFloating": false,
+      "fromNode": "6cfe196594c875e4",
+      "fromSide": "bottom",
+      "id": "4d469d2b7159e2bd",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "toFloating": false,
+      "toNode": "bbcd31e1726fa475",
+      "toSide": "top"
+    },
+    {
+      "fromFloating": false,
+      "fromNode": "bbcd31e1726fa475",
+      "fromSide": "bottom",
+      "id": "ee9acb35c9975a96",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "toFloating": false,
+      "toNode": "8bc0b634ad8fb657",
+      "toSide": "top"
+    },
+    {
+      "fromFloating": false,
+      "fromNode": "e5d11fee76457ce0",
+      "fromSide": "bottom",
+      "id": "2d9598764b447ed8",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "toFloating": false,
+      "toNode": "f77c8db0b629c591",
+      "toSide": "top"
+    }
+  ],
+  "metadata": {
+    "frontmatter": {
+    },
+    "startNode": "79810953c2e7b3bc",
+    "version": "1.0-1.0"
+  },
+  "nodes": [
+    {
+      "color": "#8308a6",
+      "height": 110,
+      "id": "feba56b5e787680e",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "### Текущая маркетинговая ситуация",
+      "type": "text",
+      "width": 340,
+      "x": -546,
+      "y": -215
+    },
+    {
+      "height": 130,
+      "id": "a5be15b9c4c3a0e1",
+      "styleAttributes": {
+        "textAlign": null
+      },
+      "text": "1. **Описание рынка**\nОписание целевого рынка, его сегменты, потребности клиентов.",
+      "type": "text",
+      "width": 340,
+      "x": -546,
+      "y": -52
+    },
+    {
+      "height": 140,
+      "id": "e5d11fee76457ce0",
+      "styleAttributes": {
+        "textAlign": null
+      },
+      "text": "2. **Обзор продуктов**\nОбъемы продаж, цены и величины валовой прибыли по основным продуктам.",
+      "type": "text",
+      "width": 340,
+      "x": -546,
+      "y": 120
+    },
+    {
+      "height": 203,
+      "id": "f77c8db0b629c591",
+      "styleAttributes": {
+      },
+      "text": "3. **Обзор конкурентов**\nГлавные конкуренты. Их продукция, ценообразование, распределение и продвижение продукции на рынок.",
+      "type": "text",
+      "width": 340,
+      "x": -546,
+      "y": 297
+    },
+    {
+      "height": 161,
+      "id": "67a6dc04301a9a00",
+      "styleAttributes": {
+      },
+      "text": "4. **Обзор распределения**\nОцениваются последние тенденции со сбытом и прочие изменения в основных каналах распределения.",
+      "type": "text",
+      "width": 340,
+      "x": -546,
+      "y": 539
+    },
+    {
+      "color": "#8e21ab",
+      "height": 90,
+      "id": "29a38d90c0dbb0bb",
+      "styleAttributes": {
+      },
+      "text": "### Анализ угроз и возможностей",
+      "type": "text",
+      "width": 260,
+      "x": -127,
+      "y": -215
+    },
+    {
+      "color": "#a90ec8",
+      "height": 153,
+      "id": "6cfe196594c875e4",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "### Задачи и проблемы, которые нужно решить",
+      "type": "text",
+      "width": 260,
+      "x": -127,
+      "y": -75
+    },
+    {
+      "color": "#890a99",
+      "height": 216,
+      "id": "bbcd31e1726fa475",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "### Маркетинговая стратегия",
+      "type": "text",
+      "width": 260,
+      "x": -127,
+      "y": 129
+    },
+    {
+      "height": 216,
+      "id": "79d06e92db160034",
+      "styleAttributes": {
+      },
+      "text": "Особенности целевых рынков, позиционирование, бренд, уровни маркетинговых расходов и конкретные стратегии для каждого из элементов маркетингового комплекса.",
+      "type": "text",
+      "width": 321,
+      "x": 160,
+      "y": 129
+    },
+    {
+      "height": 90,
+      "id": "6b10665fdca20d5a",
+      "styleAttributes": {
+      },
+      "text": "*Какие угрозы и возможности могут нас ожидать*?",
+      "type": "text",
+      "width": 321,
+      "x": 160,
+      "y": -215
+    },
+    {
+      "height": 153,
+      "id": "6228b26653d4d049",
+      "styleAttributes": {
+      },
+      "text": "Напишите **все задачи**, которые нужно решить, **способы достижения** этих задач, а также **ключевые проблемы**.",
+      "type": "text",
+      "width": 321,
+      "x": 160,
+      "y": -75
+    },
+    {
+      "color": "#8e21ab",
+      "height": 115,
+      "id": "d0ed8a9758f5cf27",
+      "styleAttributes": {
+        "shape": null,
+        "textAlign": "center"
+      },
+      "text": "### Краткое резюме",
+      "type": "text",
+      "width": 236,
+      "x": -546,
+      "y": -406
+    },
+    {
+      "height": 115,
+      "id": "fd719e3f16cd2ab5",
+      "styleAttributes": {
+      },
+      "text": "Справочник, в котором должны быть изложены все важнейшие цели плана.",
+      "type": "text",
+      "width": 280,
+      "x": -240,
+      "y": -406
+    },
+    {
+      "height": 178,
+      "id": "1ad168d9c06933f5",
+      "styleAttributes": {
+      },
+      "text": "Планируемый отчет о прибылях и убытках. Ожидаемые доходы (кол-во проданных и средняя цена), ожидаемые издержки (производство, распределение, маркетинг).",
+      "type": "text",
+      "width": 321,
+      "x": 160,
+      "y": 382
+    },
+    {
+      "color": "#8807a2",
+      "height": 178,
+      "id": "8bc0b634ad8fb657",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "### Бюджеты",
+      "type": "text",
+      "width": 260,
+      "x": -127,
+      "y": 382
+    },
+    {
+      "color": "#860e95",
+      "height": 90,
+      "id": "884db38aed8b7c95",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "### Механизмы контроля",
+      "type": "text",
+      "width": 320,
+      "x": 15,
+      "y": 800
+    },
+    {
+      "height": 281,
+      "id": "40606390a0982785",
+      "styleAttributes": {
+      },
+      "text": "Механизмы контроля, которые помогут отслеживать достигнутые результаты. Это даст возможность в дальнейшем анализировать практическую реализацию и выявлять продукты, не достигнувшие поставленных перед ними целей.",
+      "type": "text",
+      "width": 320,
+      "x": 15,
+      "y": 927
+    },
+    {
+      "color": "#8c0daf",
+      "height": 85,
+      "id": "5e412af047ff71e5",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "### Программы действий",
+      "type": "text",
+      "width": 320,
+      "x": -400,
+      "y": 800
+    },
+    {
+      "height": 280,
+      "id": "415bb9902bd83eee",
+      "styleAttributes": {
+      },
+      "text": "Превратите стратегии в конкретные действия.\n- **Что** будет сделано?\n- **Когда** будет сделано?\n- **Кто отвечает** за выполнение задачи?\n- **Во сколько** это обойдется?",
+      "type": "text",
+      "width": 320,
+      "x": -400,
+      "y": 925
+    }
+  ]
+}
